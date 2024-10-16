@@ -23,7 +23,7 @@ To set up the environment for this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Credit-Card-Default-Prediction.git
+   git clone https://github.com/Kevin10A/Credit-Card-Default-Prediction.git
    ```
 
 2. **Install the required packages:**
